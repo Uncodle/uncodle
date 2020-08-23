@@ -19,6 +19,7 @@ body {
     width: 100vw;
     height: 100vh;
     display: flex;
+    padding: 25px;
     align-content: center;
     text-align: center;
     justify-content: center;
@@ -48,6 +49,10 @@ body {
 }
 
 .block__social {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
     margin-top: 45px;
 }
 
