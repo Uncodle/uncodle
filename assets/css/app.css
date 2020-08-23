@@ -8,6 +8,7 @@
 }
 
 body {
+    overflow: hidden;
     background-image: url(../images/geek-bg.svg);
     background-repeat: repeat;
     background-color: #1b142b;
