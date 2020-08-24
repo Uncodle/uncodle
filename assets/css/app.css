@@ -60,11 +60,11 @@ body {
     color: #fff;
     display: inline-block;
     text-decoration: none;
+    margin-bottom: 20px;
 }
 
 .social__link:not(:last-child){
     margin-right: 20px;
-    margin-bottom: 20px;
 }
 
 .social__link svg {
