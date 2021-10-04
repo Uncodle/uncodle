@@ -1,12 +1,29 @@
 # H3ll0.world
 
+Hi there, I'm Raveena.
+I think we have a lot of things in common!
+You can read the text above and tell me if I'm right or not.
+
 ## wh0.iam
+
+I just a soul looking for freedom.
 
 ## n3w.projects[]
 
-## Sk1.lls[]
+I'm working a lot with `javascript`, so actually my new pet projects consists of developing 3 similar applications using Spotify API to return all playlists of the user and calculate the most added music in them, using different `javascript frameworks` like `vue.js`, `react.js` and `Angular`.
 
 ## l34rn.ing
+
+I like a lot of cybersecurity. Actually i'm go backing to my studies of penetration test.
+Some of my repositories has some simple python tools for pentesting. Enjoy it!
+
+## Sk1.lls[]
+
+Go back later...
+
+## 0ff.topic
+
+Go back later...
 
 ## c0nt4ct.me
 
