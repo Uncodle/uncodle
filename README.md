@@ -6,11 +6,11 @@ You can read the text above and tell me if I'm right or not.
 
 ## wh0.iam
 
-I just a soul looking for freedom.
+I'm just a soul looking for freedom.
 
 ## n3w.projects[]
 
-I'm working a lot with `javascript`, so actually my new pet projects consists of developing 3 similar applications using Spotify API to return all playlists of the user and calculate the most added music in them, using different `javascript frameworks` like `vue.js`, `react.js` and `Angular`.
+I'm working a lot with `javascript`, so actually my new pet projects consists of developing 3 similar applications using Spotify `API` to return all playlists of the user and calculate the most added music in them, using different `frameworks` like `Vue`, `React` and `Angular`. 
 
 ## l34rn.ing
 
@@ -27,7 +27,7 @@ Go back later...
 
 ## c0nt4ct.me
 
-You can find me in one of this ones (it's more likely to be steam)
+You can find me in one of this ones (it's more likely to be on steam)
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/geovanasribeiro/)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitestyle=for-the-badge" />](https://www.instagram.com/raveenita/)
