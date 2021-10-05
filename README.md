@@ -14,7 +14,7 @@ I'm working a lot with `javascript`, so actually my new pet projects consists of
 
 The main goal of this approach is to study this 3 technologies and understand when to use which.
 
-You can consult some annotations in the repository of my studies: https://github.com/uncodle/code-reviews/
+You can consult some annotations in the repository of my studies: https://github.com/uncodle/favorite-music-tracker/
 
 > ⚠️ Still working on it! **Be patience...**
 
