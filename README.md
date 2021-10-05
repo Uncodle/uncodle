@@ -1,8 +1,8 @@
-# H3ll0.world
+# ⚔ H3ll0.world ⚔
 
 Hi there, I'm Raveena.
 I think we have a lot of things in common!
-You can read the text above and tell me if I'm right or not.
+Look, us both know how to use github ((=
 
 ## ☠️ wh0.iam
 
@@ -14,28 +14,32 @@ I'm working a lot with `javascript`, so actually my new pet projects consists of
 
 The main goal of this approach is to study this 3 technologies and understand when to use which.
 
-You can consult them in the repository of code reviews: https://github.com/Uncodle/code-reviews
+You can consult some annotations in the repository of my studies: https://github.com/uncodle/code-reviews/
 
-Still working on it!
-Be patience...
+> ⚠️ Still working on it! **Be patience...**
 
 ## 💡 l34rn.ing
 
 I like a lot of cybersecurity. Actually i'm go backing to my studies of penetration test.
 Some of my repositories has some simple python tools for pentesting. Enjoy it!
 
-## 🖥️ Sk1.lls[]
+## 🖥️ sk1.lls[]
+
+I use to work with this topics below. But, like as just said above, I love cybersecurity and I have some hidden secrets that I just don't 'll cover here for now.
 
 - **HTML5**: ⭐⭐⭐⭐⭐
 - **CSS3**: ⭐⭐⭐⭐
-- **SEO**: ⭐⭐⭐⭐ 
-- **GIT**: ⭐⭐⭐  
-- **Web Performance**: ⭐⭐⭐ 
-- **Acessibility**: ⭐⭐⭐⭐  
 - **Javascript**: ⭐⭐⭐  
 - **Angular**: ⭐⭐⭐⭐ 
+- **SEO**: ⭐⭐⭐⭐ 
+- **Web Performance**: ⭐⭐⭐ 
+- **Acessibility**: ⭐⭐⭐⭐  
+- **Usability**: ⭐⭐⭐
+- **Git**: ⭐⭐⭐ 
+- **Server Side Rendering**: ⭐⭐
+- **Wordpress**: ⭐⭐⭐
 
-## 0ff.topic
+## ⚽ h0bbi.es
 
 ❤️ There's some things that I love to...
 
@@ -60,7 +64,6 @@ You can find me in one of this ones (it's more likely to be on steam)
 [<img align="left" alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/uncodle)
 [<img align="left" alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />](https://steamcommunity.com/id/uncodle/)
 
-<br>
 <br>
 
 [<img align="left" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/uncodle)
