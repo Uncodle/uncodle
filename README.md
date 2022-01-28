@@ -16,7 +16,7 @@ The main goal of this approach is to study this 3 technologies and understand wh
 
 You can consult some annotations in the repository of my studies: https://github.com/uncodle/favorite-music-tracker/
 
-> ⚠️ Still working on it! **Be patience...**
+> ⚠️ Still working on it! **Be patient...**
 
 ## 💡 l34rn.ing
 
